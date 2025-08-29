@@ -12,7 +12,7 @@ public class MineSweeperApp {
             System.out.print("Enter grid size (n for n x n): ");
             int size = scanner.nextInt();
 
-            System.out.print("Enter number of mines: ");
+            System.out.print("Enter number of mines: hello hemas");
 			
 			 System.out.print("Enter number of mines: ");
             int mineCount = scanner.nextInt();
