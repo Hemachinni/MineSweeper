@@ -14,7 +14,7 @@ public class MineSweeperApp {
 
             System.out.print("Enter number of mines: hello hemas");
 			
-			 System.out.print("Enter number of mines: ");
+			 System.out.print("Enter number of mines: testing jenkins builds");
             int mineCount = scanner.nextInt();
 
             MineSweeperGame game = new MineSweeperGame(size, mineCount);
